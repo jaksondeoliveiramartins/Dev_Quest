@@ -1,0 +1,9 @@
+span{
+  color: aqua;
+  background-color: rgb(3, 32, 32);
+
+  display: block;
+  width: 200px;
+  height: 200px;
+
+}
