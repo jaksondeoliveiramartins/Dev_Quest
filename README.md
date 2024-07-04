@@ -1,1 +1,1 @@
-# Exercendo o conhecimento teorico na pratica.
+# O conhecimento teorico na pratica.
